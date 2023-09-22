@@ -23,7 +23,7 @@
     </rect>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="pushButton_archive">
    <property name="geometry">
     <rect>
      <x>510</x>
@@ -42,7 +42,7 @@
     <string>Архив</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="pushButton_status">
    <property name="geometry">
     <rect>
      <x>10</x>
@@ -61,7 +61,7 @@
     <string>Узнать статус</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="pushButton_exit">
    <property name="geometry">
     <rect>
      <x>510</x>
@@ -80,7 +80,7 @@
     <string>Выход</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
+  <widget class="QPushButton" name="pushButton_send_to_archive">
    <property name="geometry">
     <rect>
      <x>310</x>
@@ -99,7 +99,7 @@
     <string>Отправить в архив</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_5">
+  <widget class="QPushButton" name="pushButton_delete">
    <property name="geometry">
     <rect>
      <x>310</x>
